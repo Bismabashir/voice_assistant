@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f9;
+}
+
+#app {
+    text-align: center;
+    background: rgb(164, 160, 231);
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 10px 40px 100px rgba(36, 3, 245, 0.1);
+    width: 800px;
+}
+
+#messages {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 100px;
+    height: 200px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 300px;
+    cursor: pointer;
+}
