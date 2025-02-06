@@ -1,0 +1,12 @@
+pyttsx3
+speechrecognition
+pyAudio
+wikipedia
+python-dotenv
+openai
+streamlit
+pyAudio
+Flask
+Flask-SocketIO
+eventlet
+wikipedia-api
